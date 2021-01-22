@@ -10,7 +10,8 @@ Hacer un git clone para importar el proyecto.
 En la raíz del mismo se encuentra la base de datos.Para entrar haced uso de las credenciales de los diferentes usuarios registrados en la base de datos.
  *ejemplo*
 
- *usuario:*Joker@outlaws.com
+ *usuario:* Joker@outlaws.com
+ 
  *contraseña:* 12345678
 
  ### Realizado con:
